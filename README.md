@@ -90,7 +90,7 @@
 |漢字検定2級|2007年ごろ|ほぼノー勉で取れた。でも準1級はめっちゃ勉強したけど取れなかった|
 |TOEIC 765点|2007年ごろ|道案内くらいはできる|
 |簿記3級|2012年ごろ|独立以降ものすごく役に立った|
-|大河ドラマ検定2球|2016年ごろ|趣味です|
+|大河ドラマ検定2級|2016年ごろ|趣味です|
 
 必要がなければモチベーションが湧かない人間なので、最近は特に資格勉強はしてません
 
@@ -109,21 +109,25 @@
 
 ### Anique (2019/7 ~ )
 
-- 漫画・アニメのデジタル所有権を売買するサービス
-  - Blockchain(Ethereum) を使うことで、売買を公式の場に限定することで権利者の利益を守っています
+- 漫画・アニメのデジタル所有権(NFT)を売買するサービス
   - https://anique.jp/
+  - Ruby on Rails, Rspec, GraphQL, Web3.js, Ethereum, Solidity
+  - Blockchain(Ethereum) を使うことで、売買を公式の場に限定することで権利者の利益を守っています
 - オンライン展覧会も作成しました
   - https://lp.anique.jp/exhibition/lain2020/
-
-|key|value|
-|---|---|
-|担当業務|バックエンド、3Dプログラミング、Blockchain周りもちょっと|
-|開発環境|Ruby on Rails, GraphQL, Web3.js, Three.js, DatoCMS, Blender, Notion, Figma|
-|習得スキル|GraphQL, Solidity, Three.js, TypeScript, Web3.js|
-|コメント1|Ruby on Rails でバックエンドがメイン。Rspecも割としっかり目に書き、コードの治安維持(?)に務めてます。|
-|コメント2|途中からはオンライン展覧会も作成(3Dプログラミングできる人が自分だったため)。ベクトルとか三角関数とかバリバリ。シェーダもちょっと書いた|
-|コメント3|Blockchain に関して、Web3.js を用いて本体サイトで購入があったら自動で Ethereum トークンを mint する仕組みとか作りました。コントラクトはジョイン時点で完成していたので触っていません（残念）|
-|コメント4|1つのプロダクトでここまで守備範囲を広くやらせてもらえるのってすごい|
+  - three.js, Blender, DatoCMS
+  - 3Dモデル描画でオンラインミュージアム体験を実装
+  - コンテンツ数によって展覧会モデルが自動で増減する仕組み
+  - メモリ管理(ロードするコンテンツを動的に管理、高精細画像の切り替えを自動で行うなどし、制限されたメモリ量で最大限の体験を提供)
+  - シェーダも書きました
+- Flow blockchain による進撃の巨人NFTプロダクト
+  - https://aotlegacy.com/
+  - Flow, Cadence, Golang, GCP, TypeScript, Nest.js, PostgreSQL
+  - Cadence(Flow)によるコントラクト書きました
+    - https://flowscan.org/contract/A.e2e1689b53e92a82.AttackOnTitanLegacy/overview
+  - FlowAPIはマイクロサービス化
+  - GCP Workflow によるバックエンドとマイクロサービスの連携
+  - DBとFlowの分散トランザクション管理
 
 ### 2014/6 フリーランスになる
 - スマホ向けゲーム（カジュアル系多数）
