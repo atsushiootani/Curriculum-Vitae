@@ -15,23 +15,22 @@
 # 仕事のスタイル
 
 - 現在は基本的にリモート
-  - 10時開始、19~20時終了が多い
-  - ~必要に応じて出社可~ 昨今の情勢によりできればフルリモートが嬉しいです
+  - 10時開始、19~20時終了が多いです
+  - 基本的にフルリモートが嬉しいです
 - 開発環境
   - MacBook
-  - 追加のモニタなくても平気
   - 雑音がある方が集中できます。喫茶店とか
     - 音楽は聴かないです（音楽に集中しちゃうため）
 - よく使うツール
   - JetBrains (All Product Pack)
     - IDE
-  - slack
-  - esa
-    - Notion に乗り換えました ~1000記事くらい書いてたから移行大変だった…~
-    - markdown だから Qiita にも転記しやすい
-    - スライドショーがワンボタンで作れるので登壇時の資料作成の手間が省ける
   - Notion
-    - 超便利。割と使いこなしてると思います
+    - 割と使いこなしてると思います
+  - slack
+    - オンライン会議も基本 slack haddle。複数人が同時に画面共有できるのが◯
+  - Alfred
+  - Karabiner
+  - Logitech G HUB
 
 # プログラミング言語
 
@@ -166,13 +165,13 @@ Flowです
   - DBとFlowの分散トランザクション管理
 
 ## AttackOnTitanLegacy(2020 ~ 2021)
-進撃の巨人のNFTを販売するサービスです
-現在北米向けに展開しています
-進撃の巨人のキャラクターをNFT化し、販売・二次流通しています。
-Flow blockchain を使っています
-https://aotlegacy.com/
-mainnet にデプロイしたコントラクト(4つあります)
-https://flow-view-source.com/mainnet/account/0xe2e1689b53e92a82/contract/AttackOnTitanLegacy
+- 進撃の巨人のNFTを販売するサービスです
+  - https://aotlegacy.com/
+  - 進撃の巨人のキャラクターをNFT化し、販売・二次流通しています。
+  - Flow blockchain を使っています
+  - mainnet にデプロイしたコントラクト(4つあります)
+    - https://flow-view-source.com/mainnet/account/0xe2e1689b53e92a82/contract/AttackOnTitanLegacy
+  - (その後 Ethereum に移行したようです)
 ### 技術スタック
 - Blockchain, Flow, Cadence
 - TypeScript, Nest.js, GraphQL, PostgreSQL, Go, onflow-sdk, onflow-fcl
