@@ -160,7 +160,7 @@ Flowです
   - https://aotlegacy.com/
   - Flow, Cadence, Golang, GCP, TypeScript, Nest.js, PostgreSQL
   - Cadence(Flow)によるコントラクト書きました
-    - https://flowscan.org/contract/A.e2e1689b53e92a82.AttackOnTitanLegacy/overview
+    - https://flow-view-source.com/mainnet/account/0xe2e1689b53e92a82/contract/AttackOnTitanLegacy
   - FlowAPIはマイクロサービス化
   - GCP Workflow によるバックエンドとマイクロサービスの連携
   - DBとFlowの分散トランザクション管理
@@ -171,8 +171,8 @@ Flowです
 進撃の巨人のキャラクターをNFT化し、販売・二次流通しています。
 Flow blockchain を使っています
 https://aotlegacy.com/
-mainnet にデプロイしたコントラクト
-https://flowscan.org/contract/A.e2e1689b53e92a82.AttackOnTitanLegacy/overview
+mainnet にデプロイしたコントラクト(4つあります)
+https://flow-view-source.com/mainnet/account/0xe2e1689b53e92a82/contract/AttackOnTitanLegacy
 ### 技術スタック
 - Blockchain, Flow, Cadence
 - TypeScript, Nest.js, GraphQL, PostgreSQL, Go, onflow-sdk, onflow-fcl
