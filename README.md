@@ -10,7 +10,7 @@
 |Name|大谷篤史|
 |GitHub|[atsushiootani](https://github.com/atsushiootani)|
 |Location|東京|
-|https://x.com/_natsu_no_yuki_|[https://x.com/_natsu_no_yuki_](https://x.com/_natsu_no_yuki_)|
+|Twitter|[https://x.com/_natsu_no_yuki_](https://x.com/_natsu_no_yuki_)|
 |LinkedIn|www.linkedin.com/in/atsushi-otani-248006113|
 
 
