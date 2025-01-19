@@ -25,13 +25,12 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**
 
-- [Curriculum-Vitae](#curriculum-vitae)
 - [仕事のスタイル](#%E4%BB%95%E4%BA%8B%E3%81%AE%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB)
 - [プログラミング言語](#%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E8%A8%80%E8%AA%9E)
 - [フレームワーク](#%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0%E3%83%AF%E3%83%BC%E3%82%AF)
 - [資格](#%E8%B3%87%E6%A0%BC)
 - [経歴とか](#%E7%B5%8C%E6%AD%B4%E3%81%A8%E3%81%8B)
-  - [DMM Crypto (2023/02 ~ 2024/12)](#dmm-crypto-202302--202412)
+  - [DMM Crypto (2023/02 ~ 2024/12) ※DMM BITCOIN とは別の会社](#dmm-crypto-202302--202412-%E2%80%BBdmm-bitcoin-%E3%81%A8%E3%81%AF%E5%88%A5%E3%81%AE%E4%BC%9A%E7%A4%BE)
     - [Seamoon Protocol](#seamoon-protocol)
   - [fingger (2021/02~2021/06)](#fingger-202102202106)
   - [コネクト3D (2020/12)](#%E3%82%B3%E3%83%8D%E3%82%AF%E3%83%883d-202012)
