@@ -1,3 +1,26 @@
+# Curriculum-Vitae
+
+|key|value|
+|---|-----|
+|Name|大谷篤史|
+|GitHub|[atsushiootani](https://github.com/atsushiootani)|
+|Location|東京|
+|Twitter|[https://x.com/_natsu_no_yuki_](https://x.com/_natsu_no_yuki_)|
+|LinkedIn|www.linkedin.com/in/atsushi-otani-248006113|
+
+大まかなキャリアとして
+
+- 業務用ゲーム（アーケードゲームのこと）
+- →コンシューマゲーム（家庭用ゲームのこと）
+- →モバイルソシャゲ
+- →iOS/Android
+- →バックエンド
+- →ブロックチェーン
+- →設計・アーキテクチャ
+
+という感じでやってきてます
+
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**
@@ -37,19 +60,6 @@
 - [座右の銘（好きな言葉）](#%E5%BA%A7%E5%8F%B3%E3%81%AE%E9%8A%98%E5%A5%BD%E3%81%8D%E3%81%AA%E8%A8%80%E8%91%89)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
-# Curriculum-Vitae
-
-業務用ゲーム（アーケードゲームのこと）→コンシューマゲーム（家庭用ゲームのこと）→モバイルソシャゲ→iOS/Android→バックエンド→ブロックチェーン→設計・アーキテクチャ という感じでやってきてます
-
-|key|value|
-|---|-----|
-|Name|大谷篤史|
-|GitHub|[atsushiootani](https://github.com/atsushiootani)|
-|Location|東京|
-|Twitter|[https://x.com/_natsu_no_yuki_](https://x.com/_natsu_no_yuki_)|
-|LinkedIn|www.linkedin.com/in/atsushi-otani-248006113|
-
 
 # 仕事のスタイル
 
@@ -126,7 +136,7 @@
 
 # 経歴とか
 
-## DMM Crypto (2023/02 ~ 2024/12)
+## DMM Crypto (2023/02 ~ 2024/12) ※DMM BITCOIN とは別の会社
 
 ブロックチェーン構想と、ゲームプラットフォームが実現できそうということで参画
 
@@ -429,7 +439,7 @@ https://lp.anique.jp/exhibition/shingeki/
 - 商品の出品、販売機能や、抽選販売する商品の抽選機能などを実装しました
 - DevOps周りも実装しています。特に抽選機能については、作業者がかなり使いにくく苦しんでいたため、前任者の作ったページや機能を全面的に作り直し、「神」「使いやすすぎてやばい」みたいに言われました
 - Rake Task とかもプロンプトで confirm するなどは常に意識しています
-- バックエンドから Ethereum を操作する機能群を作りました。web3 ライブラリとバックエンドDBとblockchainで齟齬が起きない、いわば分さんトランザクションを担保する難度が高い箇所です
+- バックエンドから Ethereum を操作する機能群を作りました。web3 ライブラリとバックエンドDBとblockchainで齟齬が起きない、いわば分散トランザクションを担保する難度が高い箇所です
 - blockchainに対する操作（自社DBとも整合を担保しつつ）を提供するなどの機能を作成しました
 DB でNFTの所有者を変更するタイミングと、blockchain 上で NFT の所有権の移動が記録されるタイミングに無視できない隔たり（場合によっては数時間を超えることも）があるため、所有権の移動をユーザにどう見せるか（どう気付かせないか）ということをプロダクトレベルまで遡ってチームとして検討しました
 実装者としては、補償トランザクションを実行できない分散トランザクションのようなもので、デバッグが困難であるなどやや難度の高い作業でしたが、振り返ってみれば単に外部サービスを扱うことと基本は変わらなかったと感じます
