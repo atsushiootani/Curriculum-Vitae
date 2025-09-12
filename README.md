@@ -821,9 +821,6 @@ iOS向けの2Dパズルゲーム
   - Roppongi.rs
   - 「Rustがいかにエンジニアの脳を楽にさせているかをC++初心者が語る〜関数篇〜」
     - https://roppongirs.connpass.com/event/138123/
-  - 発表資料
-    - https://esa-pages.io/p/sharing/8402/posts/807/edd7315d923a6fbe9226.html
-  - Rustに触れて3日くらいの段階でなぜか登壇、しかもこのコミュニティの第1回の初っ端登壇という無謀
 
 # 座右の銘（好きな言葉）
 
